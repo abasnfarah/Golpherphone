@@ -17,6 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 */
 
+// These first three libraries are for connecting to the GSM Sheld Software
 #include <GSM.h>
 #include <GSM3ShieldV1VoiceProvider.h>
 #include <GSM3Serial1.h>
